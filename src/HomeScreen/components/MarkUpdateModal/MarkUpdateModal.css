@@ -1,0 +1,12 @@
+.update_lead_form {
+  padding: 20px;
+}
+
+.update_lead_btn {
+  
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+}

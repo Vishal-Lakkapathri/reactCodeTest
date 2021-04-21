@@ -1,0 +1,28 @@
+.add_lead_form {
+  /* max-width: 300px; */
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.formRow {
+  display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+}
+
+.formField {
+  display: flex;
+  flex-direction: column;
+  padding-right: 30px;
+}
+
+.formLable {
+  padding-bottom: 10px;
+}
+
+.add_lead_btn{
+  
+}
